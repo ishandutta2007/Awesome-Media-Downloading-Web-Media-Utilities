@@ -59,64 +59,64 @@ Commercial desktop clients and hosted download services ranked by company scale 
 
 Curated top-tier open-source tools, download engines, headless daemons, and graphical user interfaces. Sorted descending by GitHub stargazers count:
 
-1. **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
+1. **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub_Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
    ⚡ The gold standard command-line media downloader and actively maintained fork of youtube-dl with thousands of site extractors, performance patches, sponsorblock integration, and format options.
 
-2. **[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** [![GitHub stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social&color=white)](https://github.com/ytdl-org/youtube-dl/stargazers)  
+2. **[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** [![GitHub_Stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social&color=white)](https://github.com/ytdl-org/youtube-dl/stargazers)  
    📹 The foundational Python command-line utility for downloading video and audio from YouTube and hundreds of other web portals that established the media extraction ecosystem.
 
-3. **[agalwood/Motrix](https://github.com/agalwood/Motrix)** [![GitHub stars](https://img.shields.io/github/stars/agalwood/Motrix?style=social&color=white)](https://github.com/agalwood/Motrix/stargazers)  
+3. **[agalwood/Motrix](https://github.com/agalwood/Motrix)** [![GitHub_Stars](https://img.shields.io/github/stars/agalwood/Motrix?style=social&color=white)](https://github.com/agalwood/Motrix/stargazers)  
    🚀 Full-featured, elegant desktop download manager built on Electron and aria2 with support for HTTP, FTP, BitTorrent, and Magnet links across Windows, macOS, and Linux.
 
-4. **[soimort/you-get](https://github.com/soimort/you-get)** [![GitHub stars](https://img.shields.io/github/stars/soimort/you-get?style=social&color=white)](https://github.com/soimort/you-get/stargazers)  
+4. **[soimort/you-get](https://github.com/soimort/you-get)** [![GitHub_Stars](https://img.shields.io/github/stars/soimort/you-get?style=social&color=white)](https://github.com/soimort/you-get/stargazers)  
    📥 Tiny, flexible command-line web media scraper written in Python with specialized support for international and regional streaming media hubs.
 
-5. **[team-spotube/spotube](https://github.com/team-spotube/spotube)** [![GitHub stars](https://img.shields.io/github/stars/team-spotube/spotube?style=social&color=white)](https://github.com/team-spotube/spotube/stargazers)  
+5. **[team-spotube/spotube](https://github.com/team-spotube/spotube)** [![GitHub_Stars](https://img.shields.io/github/stars/team-spotube/spotube?style=social&color=white)](https://github.com/team-spotube/spotube/stargazers)  
    🎧 Open-source, cross-platform music streaming and downloading client built with Flutter, leveraging Spotify data endpoints alongside YouTube/Piped media streams with zero telemetry.
 
-6. **[imputnet/cobalt](https://github.com/imputnet/cobalt)** [![GitHub stars](https://img.shields.io/github/stars/imputnet/cobalt?style=social&color=white)](https://github.com/imputnet/cobalt/stargazers)  
+6. **[imputnet/cobalt](https://github.com/imputnet/cobalt)** [![GitHub_Stars](https://img.shields.io/github/stars/imputnet/cobalt?style=social&color=white)](https://github.com/imputnet/cobalt/stargazers)  
    🌐 Privacy-respecting, modern web media downloader with an AGPL-3.0 backend and reactive web UI; features no advertisements, tracking scripts, or payloads.
 
-7. **[aria2/aria2](https://github.com/aria2/aria2)** [![GitHub stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers)  
+7. **[aria2/aria2](https://github.com/aria2/aria2)** [![GitHub_Stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers)  
    ⚡ High-speed, multi-protocol, multi-source command-line download accelerator operating over HTTP/HTTPS, FTP, SFTP, BitTorrent, and Metalink with JSON-RPC remote control.
 
-8. **[TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)** [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=social&color=white)](https://github.com/TeamNewPipe/NewPipe/stargazers)  
+8. **[TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)** [![GitHub_Stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=social&color=white)](https://github.com/TeamNewPipe/NewPipe/stargazers)  
    📱 Lightweight Android streaming and offline caching frontend that parses website content directly without proprietary Google Play Services or YouTube API tokens.
 
-9. **[iawia002/lux](https://github.com/iawia002/lux)** [![GitHub stars](https://img.shields.io/github/stars/iawia002/lux?style=social&color=white)](https://github.com/iawia002/lux/stargazers)  
+9. **[iawia002/lux](https://github.com/iawia002/lux)** [![GitHub_Stars](https://img.shields.io/github/stars/iawia002/lux?style=social&color=white)](https://github.com/iawia002/lux/stargazers)  
    🏎️ Blazing-fast command-line video download utility and Go library (formerly Annie) with multi-threaded chunk downloading and broad site coverage.
 
-10. **[JunkFood02/Seal](https://github.com/JunkFood02/Seal)** [![GitHub stars](https://img.shields.io/github/stars/JunkFood02/Seal?style=social&color=white)](https://github.com/JunkFood02/Seal/stargazers)  
+10. **[JunkFood02/Seal](https://github.com/JunkFood02/Seal)** [![GitHub_Stars](https://img.shields.io/github/stars/JunkFood02/Seal?style=social&color=white)](https://github.com/JunkFood02/Seal/stargazers)  
     🦭 Modern Android video/audio downloader interface styled in Material You, built directly on top of yt-dlp with custom format profiles and subtitle fetching.
 
-11. **[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)** [![GitHub stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=social&color=white)](https://github.com/GopeedLab/gopeed/stargazers)  
+11. **[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)** [![GitHub_Stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=social&color=white)](https://github.com/GopeedLab/gopeed/stargazers)  
     🔥 High-performance, modern cross-platform download manager developed in Go and Flutter supporting HTTP, BitTorrent, Magnet, HLS (m3u8), and extension scripts.
 
-12. **[spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)** [![GitHub stars](https://img.shields.io/github/stars/spotDL/spotify-downloader?style=social&color=white)](https://github.com/spotDL/spotify-downloader/stargazers)  
+12. **[spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)** [![GitHub_Stars](https://img.shields.io/github/stars/spotDL/spotify-downloader?style=social&color=white)](https://github.com/spotDL/spotify-downloader/stargazers)  
     🎵 Automated command-line music utility that parses Spotify song/album metadata, scrapes matching high-bitrate audio from YouTube/YouTube Music, and embeds ID3 tags and cover art.
 
-13. **[mikf/gallery-dl](https://github.com/mikf/gallery-dl)** [![GitHub stars](https://img.shields.io/github/stars/mikf/gallery-dl?style=social&color=white)](https://github.com/mikf/gallery-dl/stargazers)  
+13. **[mikf/gallery-dl](https://github.com/mikf/gallery-dl)** [![GitHub_Stars](https://img.shields.io/github/stars/mikf/gallery-dl?style=social&color=white)](https://github.com/mikf/gallery-dl/stargazers)  
     🖼️ Dedicated image and album gallery scraper that systematically extracts image collections, art portfolios, and manga chapters from dozens of hosting platforms.
 
-14. **[Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** [![GitHub stars](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social&color=white)](https://github.com/Tyrrrz/YoutubeDownloader/stargazers)  
+14. **[Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** [![GitHub_Stars](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social&color=white)](https://github.com/Tyrrrz/YoutubeDownloader/stargazers)  
     🖥️ Clean, responsive desktop graphical interface for Windows and Linux built with C# and WPF/Avalonia, offering fast multi-threaded YouTube video, playlist, and audio saving.
 
-15. **[alexta69/metube](https://github.com/alexta69/metube)** [![GitHub stars](https://img.shields.io/github/stars/alexta69/metube?style=social&color=white)](https://github.com/alexta69/metube/stargazers)  
+15. **[alexta69/metube](https://github.com/alexta69/metube)** [![GitHub_Stars](https://img.shields.io/github/stars/alexta69/metube?style=social&color=white)](https://github.com/alexta69/metube/stargazers)  
     🐳 Self-hosted web GUI wrapper for yt-dlp packaged for Docker, NAS setups, and home servers with background playlist polling and remote download triggering.
 
-16. **[streamlink/streamlink](https://github.com/streamlink/streamlink)** [![GitHub stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
+16. **[streamlink/streamlink](https://github.com/streamlink/streamlink)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
     📡 Specialized CLI stream extraction framework that pipes live video streams (Twitch, YouTube Live, Kick) directly into video players like VLC or mpv without browser overhead.
 
-17. **[jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)** [![GitHub stars](https://img.shields.io/github/stars/jely2002/youtube-dl-gui?style=social&color=white)](https://github.com/jely2002/youtube-dl-gui/stargazers)  
+17. **[jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)** [![GitHub_Stars](https://img.shields.io/github/stars/jely2002/youtube-dl-gui?style=social&color=white)](https://github.com/jely2002/youtube-dl-gui/stargazers)  
     🦀 Cross-platform desktop application (Open Video Downloader) written with Tauri, Rust, and Vue.js offering an ultra-responsive GUI front-end for yt-dlp.
 
-18. **[subhra74/xdm](https://github.com/subhra74/xdm)** [![GitHub stars](https://img.shields.io/github/stars/subhra74/xdm?style=social&color=white)](https://github.com/subhra74/xdm/stargazers)  
+18. **[subhra74/xdm](https://github.com/subhra74/xdm)** [![GitHub_Stars](https://img.shields.io/github/stars/subhra74/xdm?style=social&color=white)](https://github.com/subhra74/xdm/stargazers)  
     ⚡ Xtreme Download Manager (XDM) — power tool capable of accelerating download speeds up to 500%, capturing streaming video from web pages, and scheduling downloads.
 
-19. **[pyload/pyload](https://github.com/pyload/pyload)** [![GitHub stars](https://img.shields.io/github/stars/pyload/pyload?style=social&color=white)](https://github.com/pyload/pyload/stargazers)  
+19. **[pyload/pyload](https://github.com/pyload/pyload)** [![GitHub_Stars](https://img.shields.io/github/stars/pyload/pyload?style=social&color=white)](https://github.com/pyload/pyload/stargazers)  
     🐍 Lightweight, headless download manager written in Python designed to run on servers, NAS appliances, and Raspberry Pi devices with web management and remote APIs.
 
-20. **[StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui)** [![GitHub stars](https://img.shields.io/github/stars/StefanLobbenmeier/youtube-dl-gui?style=social&color=white)](https://github.com/StefanLobbenmeier/youtube-dl-gui/stargazers)  
+20. **[StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui)** [![GitHub_Stars](https://img.shields.io/github/stars/StefanLobbenmeier/youtube-dl-gui?style=social&color=white)](https://github.com/StefanLobbenmeier/youtube-dl-gui/stargazers)  
     💻 Cross-platform desktop graphical user interface for youtube-dl and yt-dlp implemented in Electron, TypeScript, and Node.js.
 
 ---
@@ -167,7 +167,7 @@ Thank you for exploring this curated list of media utilities and download tools!
 
 1. Fork this repository.
 2. Add or update tool entries in `README.md` following the established table or badge structure.
-3. Verify that URLs, pricing disclosures, and star counters link accurately to official repos and web properties.
+3. Verify that URLs, pricing disclosures, and Stars_Counters link accurately to official repos and web properties.
 4. Open a Pull Request detailing the changes and value added to the media utilities ecosystem.
 
 ---
